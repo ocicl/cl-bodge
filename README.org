@@ -1,0 +1,9 @@
+* cl-bodge
+
+Feature-rich game framework for Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/borodust/cl-bodge.git |
+| commit  | 3b26935                                      |
+| systems | cl-bodge                                     |
+|---------+----------------------------------------------|
